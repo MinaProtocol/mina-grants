@@ -28,7 +28,7 @@ Helpful to have a background in any of these: product design, user experience, J
 Knowledge of OCaml is required for these tasks
 
 - Write a PPX to reduce versioning boilerplate
-- Write a PPX to avoid logger boilerplate
+- [Write a PPX to avoid logger boilerplate](https://github.com/CodaProtocol/coda-grants/blob/master/projects/logging-ppx.md)
 
 ## Application Process
 
