@@ -4,7 +4,8 @@ O(1) Labs is excited to launch a grant program for projects related to the devel
 
 ## Current Projects
 
-Protocol projects:
+**Protocol projects**
+
 Helpful to have a background in any of these: back-end development, distributed systems, optimization, networking, OCaml
 
 - Windows support for Coda daemon
@@ -12,7 +13,8 @@ Helpful to have a background in any of these: back-end development, distributed 
 - Implement payment receipt design
 - Provide support for archive nodes
 
-Product / Front-end projects:
+**Product / Front-end projects**
+
 Helpful to have a background in any of these: product design, user experience, JavaScript, React, Reason
 
 - Build a Coda block explorer
@@ -21,7 +23,8 @@ Helpful to have a background in any of these: product design, user experience, J
 - Internationalize Coda Wallet strings
 - Create loading bar UI for bootstrapping process
 
-OCaml projects:
+**OCaml projects**
+
 Knowledge of OCaml is required for these tasks
 
 - Write a PPX to reduce versioning boilerplate
@@ -31,9 +34,9 @@ Knowledge of OCaml is required for these tasks
 
 In order to work on any current projects and receive funding, contributors must submit a short application. Applicants who are selected will have the opportunity to claim or “lock” the project so that they can work on it exclusively.
 O(1) Labs will review all applications submitted for grants, and evaluate them on the following criteria:
-- Previous experience in the domain of the project. Eg. for a front-end project, previous experience building products and UI’s is preferred
-- Any previous open-source contributions is a plus
-- Interest in Coda and cryptocurrencies is a plus, but not necessary - this is a great way to enter the world of cryptocurrencies
+- Previous experience in the domain of the project. Eg. for a front-end project, previous experience building products and UI’s is preferred.
+- Any previous open-source contributions is a plus.
+- Interest in Coda and cryptocurrencies is a plus, but not necessary -- this is a great way to enter the world of cryptocurrencies.
 
 ## Application Structure
 
@@ -58,14 +61,14 @@ Github can be used for all technical communication, but email is required for co
 ## FAQ
 
 #### Where do I begin if I want to understand how Coda works?
-Here <TODO - find best resource for explaining how Coda works>
+Visit [the Coda docs](https://codaprotocol.com/docs).
 #### Can teams apply?
-Yes, we can fund both individuals and teams
+Yes, we can fund both individuals and teams.
 #### Does it matter where I live / work from
-Not one bit - as long as you can be contacted within your work window, geographic location is not a consideration
+Not one bit - as long as you can be contacted within your work timezone, geographic location is not a consideration.
 #### How do I increase the chance of getting selected for a grant?
-See the Application Process section for selection criteria. Please also reach out to us if you have any unique skills that don’t apply to any current projects
-Alternatively, just show up and start contributing code to CodaProtocol/Coda <insert link> - grants will give precedence to previous contributors
+See the [Application Process](#application-process) section for selection criteria. Please also reach out to us if you have any unique skills that don’t apply to any current projects.
+Alternatively, just show up and start [contributing code to Coda](https://github.com/CodaProtocol/coda) -- grants will give precedence to previous contributors.
 #### What is expected of me, if I receive a grant?
 We expect grant recipients to:
 
