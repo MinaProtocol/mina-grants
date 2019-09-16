@@ -17,7 +17,6 @@ Helpful to have a background in any of these: back-end development, distributed 
 
 Helpful to have a background in any of these: product design, user experience, JavaScript, React, Reason
 
-- Build a Coda block explorer
 - Develop a Coda CLI that uses GraphQL endpoints
 - Design and develop new skins for Coda Wallet
 - Internationalize Coda Wallet strings
