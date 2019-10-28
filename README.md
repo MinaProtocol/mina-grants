@@ -2,7 +2,15 @@
 
 O(1) Labs is excited to launch a grant program for projects related to the development of the Coda protocol, Coda-related technology, educational programs, and resources. Initially, the proposed projects will be curated and limited in scope, but as the Coda community grows and the grant program becomes established, it will support community proposed projects.
 
-## Current Projects
+## Open Projects
+
+**Product / Front-end projects**
+
+Helpful to have a background in any of these: product design, user experience, JavaScript, React, Reason
+
+- [Translate Coda Docs to Chinese](https://github.com/CodaProtocol/coda-grants/blob/master/projects/docs-chinese.md)
+- Design and develop new skins for Coda Wallet
+- Create loading bar UI for bootstrapping process
 
 **Protocol projects**
 
@@ -12,50 +20,19 @@ Helpful to have a background in any of these: back-end development, distributed 
 - Improve parallel VRF evaluation
 - Implement payment receipt design
 - Provide support for archive nodes
-
-**Product / Front-end projects**
-
-Helpful to have a background in any of these: product design, user experience, JavaScript, React, Reason
-
-- Develop a Coda CLI that uses GraphQL endpoints
-- Design and develop new skins for Coda Wallet
-- Internationalize Coda Wallet strings
-- Create loading bar UI for bootstrapping process
-
-**OCaml projects**
-
-Knowledge of OCaml is required for these tasks
-
 - Write a PPX to reduce versioning boilerplate
 - [Write a PPX to avoid logger boilerplate](https://github.com/CodaProtocol/coda-grants/blob/master/projects/logging-ppx.md)
 
 ## Application Process
 
-In order to work on any current projects and receive funding, contributors must submit a short application. Applicants who are selected will have the opportunity to claim or “lock” the project so that they can work on it exclusively.
+Fill out this form to apply for a project: https://docs.google.com/forms/d/e/1FAIpQLSfOTzKpZ_EuyYbJPOgFkBbLO61t1g1Is0kWJHNFBXI-ccK0TQ/viewform
+
+Applicants who are selected will have the opportunity to claim or “lock” the project so that they can work on it exclusively.
+
 O(1) Labs will review all applications submitted for grants, and evaluate them on the following criteria:
-- Previous experience in the domain of the project. Eg. for a front-end project, previous experience building products and UI’s is preferred.
+- Previous experience in the domain of the project. Eg. for a front-end project, previous experience building products and UIs is preferred.
 - Any previous open-source contributions is a plus.
-- Interest in Coda and cryptocurrencies is a plus, but not necessary -- this is a great way to enter the world of cryptocurrencies.
-
-## Application Structure
-
-### Background and Qualifications
-Summarize your (or the team’s) background, and skillset pertaining to the product. Previous work in similar domains is appreciated (Github PR’s, projects, etc).
-
-### Technical approach
-How do you plan to implement the proposed solution / do you have another solution that you think would work better? What are the risks, unknowns and external dependencies that you can anticipate?
-
-### Schedule
-What is your timeline for completing the project? If there are milestones, please be granular about how you intend to hit each milestone.
-
-### Motivation
-What interests you about Coda and working on this project?
-
-### Contact / work info
-- Email
-- Github
-- Preferred work timezone
-Github can be used for all technical communication, but email is required for communication regarding disbursing funds, etc.
+- Interest in Coda and cryptocurrencies is a plus, but not necessary.
 
 ## FAQ
 
@@ -74,10 +51,8 @@ We expect grant recipients to:
 - Communicate effectively and create a tight feedback loop so we can iron out any issues as they arise
 - Meet any milestones listed in the project
 - Serve as ambassadors of Coda in the larger crypto community
-#### Will you go through Github Sponsors?
-We’re thrilled about the launch of Github Sponsors, and are exploring ways we can support the community through recurring sponsorships. Stay tuned!
 #### Where do I go if I need help?
-Join the Coda Discord channel or reach out to pranay[at]o1labs[dot]org to get help.
+Join the Coda Discord channel or reach out to grants[at]o1labs[dot]org to get help.
 
 ## About Coda
 
@@ -85,4 +60,4 @@ Coda is a cryptocurrency protocol that leverages zk-SNARKs to effectively compre
 
 O(1) Labs is currently developing Coda as a completely open-source protocol, and serves as the current steward of the project. As such, community support and ownership of the protocol is not only encouraged but desired. The Coda Grants program is just the first of many initiatives to democratize the development and growth of Coda.
 
-For any questions regarding the program, contact Pranay Mohan at pranay[at]o1labs[dot]org.
+For any questions regarding the program, email grants[at]o1labs[dot]org.
