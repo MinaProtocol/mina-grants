@@ -1,7 +1,5 @@
 # Logging PPX
 
-**Project Category:** OCaml
-
 **Level:** Intermediate
 
 **Skills Required:** OCaml, knowledge of [PPX's](https://ocamlverse.github.io/content/ppx.html)
