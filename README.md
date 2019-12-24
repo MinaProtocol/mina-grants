@@ -1,4 +1,4 @@
-# Coda Grant Program
+![Coda Grants](https://github.com/CodaProtocol/coda-grants/blob/master/static/img/coda-grants-header.jpg)
 
 O(1) Labs is excited to launch a grant program for projects related to the development of the Coda protocol, Coda-related technology, educational programs, and resources. Initially, the proposed projects will be curated and limited in scope, but as the Coda community grows and the grant program becomes established, it will support community proposed projects.
 
