@@ -8,7 +8,6 @@ O(1) Labs is excited to launch a grant program for projects related to the devel
 
 Helpful to have a background in any of these: product design, user experience, JavaScript, React, Reason
 
-- [Translate Coda Docs to Chinese](https://github.com/CodaProtocol/coda-grants/blob/master/projects/docs-chinese.md)
 - Design and develop new skins for Coda Wallet
 - Create loading bar UI for bootstrapping process
 - Build a Staking Explorer using the Graphql API
