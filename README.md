@@ -10,8 +10,6 @@ Helpful to have a background in any of these: product design, user experience, J
 
 - Design and develop new skins for Coda Wallet
 - Create loading bar UI for bootstrapping process
-- Build a Staking Explorer using the Graphql API
-  - see https://baking-bad.org/ for an example from Tezos
 - Build a peer map with telemetry data like blocks & SNARKs being produced, or transactions being sent
   - eg. https://telemetry.polkadot.io/#map
 
