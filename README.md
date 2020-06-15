@@ -66,7 +66,8 @@ Technical Community Ambassadors
 <li> Latin America (Spanish speaking)</li> 
 <li> Netherlands</li> 
 <li> Nigeria</li> 
-<li> Russia</li> 
+<li> Russia</li>
+<li> Turkey</li>
 <li> UK</li> 
 <li> US</li> 
   </ul></ul>
@@ -130,17 +131,16 @@ Making Code Compilation Easier - Bazel
 #### Where do I begin if I want to understand how Coda works?
 Visit [the Coda docs](https://codaprotocol.com/docs).
 #### Can teams apply?
-Yes, we can fund both individuals and teams.
+Yes, both individuals and teams are eligible to apply.
 #### Does it matter where I live / work from
-Not one bit - as long as you can be contacted within your work timezone, geographic location is not a consideration.
-#### How do I increase the chance of getting selected for a grant?
-See the <a href="https://forms.gle/ekPwDKE1BArTqVCu9">Application Process</a> section for selection criteria. Please also reach out to us if you have any unique skills that don’t apply to any current projects.
-Alternatively, just show up and start <a href="https://github.com/CodaProtocol/coda">contributing code to Coda</a> -- grants will give precedence to previous contributors.
+No, as long as you can be contacted within 24 hours, geographic location is not a consideration.
+#### How do I increase my chance of getting selected for a grant?
+See the <a href="https://forms.gle/ekPwDKE1BArTqVCu9">Application Process</a> section for selection criteria. Please also reach out to us if you have any unique skills that don’t apply to current projects. You can also start <a href="https://github.com/CodaProtocol/coda">contributing code to Coda</a> -- grants will give precedence to previous contributors.
 #### What is expected of me, if I receive a grant?
 We expect grant recipients to:
 
-- Communicate effectively and create a tight feedback loop so we can iron out any issues as they arise
-- Meet any milestones listed in the project
+- Communicate effectively and create a tight feedback loop
+- Meet project milestones
 - Serve as ambassadors of Coda in the larger crypto community
 #### Where do I go if I need help?
 Join the Coda Discord channel or reach out to grants[at]o1labs[dot]org to get help.
