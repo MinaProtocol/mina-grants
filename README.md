@@ -8,32 +8,32 @@ The grant program is designed to encourage community members to work on projects
 
 GraphQL API
 
-- Minimum of $10,000 USD per month of tokens (minimum 2 months commitment) 
+- Minimum of $10,000 USD per month of Coda tokens (minimum 2 months commitment) 
 - Help Coda update its GraphQL API to support new use cases. Work closely with O(1) Labs Engineering to gather requirements. You must be familiar with OCaml. 
 
 Snarketplace Aggregated Data
-- Minimum of $10,000 USD of tokens 
+- Minimum of $10,000 USD of Coda tokens 
 - Project type: Open source 
 - Create a web interface that provides information about the marketplace that snarkers and block producers meet buy & sell snarks associated with the transactions. Snarketplace is the queue that lists that snarks that are available for the block producers to buy and add to the blockchain.  
 
 Telemetry Health Dashboard 
-- Minimum of $10,000 USD of tokens 
+- Minimum of $10,000 USD of Coda tokens 
 - Project type: Open source 
 - Build a high-level dashboard that describes the current state of the network by aggregating data from as many nodes as it has access to.
 
 Browser Wallet (with optional chrome extension)
-- Minimum of $20,000 USD of tokens
+- Minimum of $20,000 USD of Coda tokens
 - Project type: Open source 
 - Enable sending, receiving, and delegating tokens using a web wallet with support for the Ledger. 
 
 Mobile Wallet
-- Minimum of $40,000 USD worth of tokens
+- Minimum of $40,000 USD worth of Coda tokens
 - Enable sending, receiving, and delegating tokens using a Mobile Wallet 
 
 **Protocol projects**
 
 Protocol Specification Document 
-- Minimum of $10,000 USD of tokens 
+- Minimum of $10,000 USD of Coda tokens 
 - Work closely with the O(1) Labs Protocol Engineering team to create a detailed formal specification of the Coda protocol. 
 -This project is ideal for someone who is familiar with the tools and technical side of the Coda protocol. 
 
@@ -42,14 +42,14 @@ Stablecoin Support
 - Offer a US dollar backed programmable stablecoin on the Coda Protocol
 
 Alternative Client Implementation (eg. Rust)
-- Minimum of $100,000 USD of tokens 
+- Minimum of $100,000 USD of Coda tokens 
 - Project type: Open source 
 - Enable Coda nodes to parse and verify the Coda transactions, its smart contracts and everything related. Provide an interfaces to create transactions, product blocks, and create snarks in Coda
 
 **Open Marketing and Community Projects**
 
 Technical Community Ambassadors
-- Minimum of $1000 USD of tokens per month
+- Minimum of $1000 USD of Coda tokens per month
 - Grow, excite and organize Coda’s technical community globally by organizing virtual meetups, supporting the community in testnet activities, establishing a presence on geographically-relevant platforms (ex. WeChat in China), producing and sharing educational content, recruiting new community members and being a spokesperson for the project. As our community grows and evolves, so will this role. The ideal candidate will be equal parts passionate, flexible, and dedicated. 
 - Minimum Qualifications: Native fluency in the dominant language of your region (Ex. German for Germany), plus an ability to communicate effectively in written and spoken English.
 
@@ -72,7 +72,7 @@ Technical Community Ambassadors
   </ul></ul>
 
 Intro video for Coda
-- Minimum of $1000 USD of tokens
+- Minimum of $1000 USD of Coda tokens
 - Create a short video that introduces Coda, highlights key differentiators, discusses Coda’s novel use of zk-SNARKs, use cases, etc.
 
 
