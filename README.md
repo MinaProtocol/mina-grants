@@ -1,6 +1,6 @@
 ![Coda Grants](https://github.com/CodaProtocol/coda-grants/blob/master/static/img/coda-grants-header.jpg)
 
-The grant program is designed to encourage community members to work on projects related to developing the Coda protocol and community. About $2.1M USD in token grants has been allocated to support these efforts prior to Coda’s mainnet launch. There will be additional token grants allocated after mainnet.
+The grant program is designed to encourage community members to work on projects related to developing the Coda protocol and community. About $2.1M USD in Coda token grants has been allocated to support these efforts prior to Coda’s mainnet launch. There will be additional Coda token grants allocated after mainnet.
 
 ## Open Projects
 
@@ -24,11 +24,11 @@ Telemetry Health Dashboard
 Browser Wallet (with optional chrome extension)
 - Minimum of $20,000 USD of Coda tokens
 - Project type: Open source 
-- Enable sending, receiving, and delegating tokens using a web wallet with support for the Ledger. 
+- Enable sending, receiving, and delegating Coda tokens using a web wallet with support for the Ledger. 
 
 Mobile Wallet
 - Minimum of $40,000 USD worth of Coda tokens
-- Enable sending, receiving, and delegating tokens using a Mobile Wallet 
+- Enable sending, receiving, and delegating Coda tokens using a Mobile Wallet 
 
 **Protocol projects**
 
