@@ -91,7 +91,7 @@ We will review all applications and evaluate them on the following criteria:
 
 ## Completed and current grant projects
 Block Explorer
-- Contributor: [bitfly](https://www.bitfly.at/)
+- Contributor: [Bitfly](https://www.bitfly.at/)
 - Link: http://coda.bitfly.at/
 - Description: An open source Coda block explorer that provides aggregated data about the Coda network and enables the users to view transactions, blocks, and accounts.  
 - Repo: https://github.com/gobitfly/coda-explorer
