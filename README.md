@@ -1,6 +1,6 @@
-![Coda Grants](https://github.com/CodaProtocol/coda-grants/blob/master/static/img/coda-grants-header.jpg)
+![Project Grant Program](https://github.com/CodaProtocol/coda-grants/blob/master/static/img/coda-grants-header.jpg)
 
-The grant program is designed to encourage community members to work on projects related to developing the Coda protocol and community. About $2.1M USD in Coda token grants has been allocated to support these efforts prior to Coda’s mainnet launch. There will be additional Coda token grants allocated after mainnet.
+The project grant program is designed to encourage community members to work on projects related to developing the Coda protocol and community. About $2.1M USD in Coda token grants has been allocated to support these efforts prior to Coda’s mainnet launch. There will be additional Coda token grants allocated after mainnet.
 
 ## Open Projects
 
