@@ -28,23 +28,22 @@ Browser Wallet (with optional chrome extension)
 
 Mobile Wallet
 - Minimum of $40,000 USD worth of Coda tokens
-- Enable sending, receiving, and delegating Coda tokens using a Mobile Wallet 
+- Enable sending, receiving, and delegating Coda tokens using a Mobile Wallet. 
 
 **Protocol projects**
 
 Protocol Specification Document 
 - Minimum of $10,000 USD of Coda tokens 
-- Work closely with the O(1) Labs Protocol Engineering team to create a detailed formal specification of the Coda protocol. 
--This project is ideal for someone who is familiar with the tools and technical side of the Coda protocol. 
+- Work closely with the O(1) Labs Protocol Engineering team to create a detailed formal specification of the Coda protocol. This project is ideal for someone who is familiar with the tools and technical side of the Coda protocol. 
 
 Stablecoin Support
 - Integration fee as grant or initial deposit amount
-- Offer a US dollar backed programmable stablecoin on the Coda Protocol
+- Offer a US dollar backed programmable stablecoin on the Coda Protocol.
 
 Alternative Client Implementation (eg. Rust)
 - Minimum of $100,000 USD of Coda tokens 
 - Project type: Open source 
-- Enable Coda nodes to parse and verify the Coda transactions, its smart contracts and everything related. Provide an interfaces to create transactions, product blocks, and create snarks in Coda
+- Enable Coda nodes to parse and verify the Coda transactions, its smart contracts and everything related. Provide an interfaces to create transactions, product blocks, and create snarks in Coda.
 
 **Open Marketing and Community Projects**
 
