@@ -89,6 +89,9 @@ We will review all applications and evaluate them on the following criteria:
 <li>Interest in Coda and cryptocurrencies is a plus, but not necessary</li>
 </ul>
 
+All grants are subject to approval by O(1) Labs. [Terms and Conditions](https://codaprotocol.com/tos) will apply. By submitting an application, you agree to our [Privacy Policy](https://codaprotocol.com/privacy).
+
+
 ## Completed and current grant projects
 Block Explorer
 - Contributor: [Bitfly](https://www.bitfly.at/)
