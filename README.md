@@ -102,7 +102,7 @@ Staking Explorer
 - Figment’s Hubble provides a block producers viewer, transactions viewer, account viewer, alerts for block producers and Snarketplace dashboard for the Coda protocol blockchain.    
 
 Coda Gateway 
-- Contributor: [Figment Network](figment.network)
+- Contributor: [Figment Network](https://www.figment.network)
 - Type: Open source
 - Provide a set of API’s that enable Gateway access for signing transactions, Transaction Search, Staking, and much more without running your own node. 
 
