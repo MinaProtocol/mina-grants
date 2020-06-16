@@ -97,27 +97,27 @@ Block Explorer
 - Repo: https://github.com/gobitfly/coda-explorer
 
 Staking Explorer
-- Contributor: <a href="figment.network">Figment Network</a>
+- Contributor: [Figment Network](figment.network)
 - Type: Open source
 - Figment’s Hubble provides a block producers viewer, transactions viewer, account viewer, alerts for block producers and Snarketplace dashboard for the Coda protocol blockchain.    
 
 Coda Gateway 
-- Contributor: <a href="figment.network">Figment Network</a> 
+- Contributor: [Figment Network](figment.network)
 - Type: Open source
 - Provide a set of API’s that enable Gateway access for signing transactions, Transaction Search, Staking, and much more without running your own node. 
 
 Block Producer Performance Dashboard 
-- Contributor: <a href="https://www.dsrvlabs.com/">dsrv labs</a>
+- Contributor: [dsrv labs](https://www.dsrvlabs.com/)
 - Type: Open source
 - A performance dashboard that enables block producers to view the metrics that help them have a good understanding of their node’s performance and identify ways to optimize the operation. The dashboard will present information such as memory & CPU, slots won, blocks produced as % fo slots won, uptime %, block gossip latencies by node, and many other metrics.   
 
 Snarker Performance Dashboard
-- Contributor: <a href="https://www.dsrvlabs.com/">dsrv labs</a>
+- Contributor: [dsrv labs](https://www.dsrvlabs.com/)
 - Type: Open source
 - A performance dashboard that enables snarkers to view the metrics that help them have a good understanding of their snarking operations, and identify ways to optimize the operation. The dashboard will present information such as memory & CPU, # of snarks added, # of sold snarks as % of added snarks that were sold, uptime %, snarker fees, and many other metrics.
 
 Tokenomics Simulator
-- Contributor: <a ref="https://gauntlet.network/">Gauntlet Network</a>
+- Contributor: [Gauntlet Network](https://gauntlet.network/)
 - A robust statistical model of Coda protocol economics, which will consist of a Python representation of key protocol logic, running on Gauntlet’s simulation cluster as well as agent and market models. These will allow Gauntlet and Coda to provide informed recommendations on choices for key protocol parameters as well as map out failure and success conditions for the protocol achieving efficient consensus. 
 
 Making Code Compilation Easier - Bazel 
