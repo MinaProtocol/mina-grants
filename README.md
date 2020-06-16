@@ -89,7 +89,7 @@ We will review all applications and evaluate them on the following criteria:
 <li>Interest in Coda and cryptocurrencies is a plus, but not necessary</li>
 </ul>
 
-**Completed and current grant projects**
+## Completed and current grant projects
 Block Explorer
 - Contributor: bitfly
 - Link: http://coda.bitfly.at/
