@@ -97,7 +97,7 @@ Block Explorer
 - Repo: https://github.com/gobitfly/coda-explorer
 
 Staking Explorer
-- Contributor: [Figment Network](figment.network)
+- Contributor: [Figment Network](https://www.figment.network)
 - Type: Open source
 - Figment’s Hubble provides a block producers viewer, transactions viewer, account viewer, alerts for block producers and Snarketplace dashboard for the Coda protocol blockchain.    
 
